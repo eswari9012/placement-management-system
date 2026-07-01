@@ -1,0 +1,5 @@
+node_modules/
+.env
+
+placement_frontend/node_modules/
+placement_frontend/dist/
