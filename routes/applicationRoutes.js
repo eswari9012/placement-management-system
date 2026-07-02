@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
-const Application = require("../models/application");
+const Application = require("../models/Application");
 const verifyToken = require("../middleware/authMiddleware");
 
 // Apply for Job
